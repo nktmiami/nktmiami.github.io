@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>Forest Hills 4v4 Basketball League</title>
+<title>HoopsDraft — 4v4 Team Builder</title>
 <style>
 /* ═══════════════════════════════════════════════════
    HOOPSDRAFT  |  Self-Contained  |  No CDN Required
